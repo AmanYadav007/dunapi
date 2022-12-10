@@ -1,0 +1,11 @@
+// https://amanyadav007.github.io/duknowAPI/info.json
+//abn = AEM,banner,DotNet
+
+
+{
+    "abn1": "You cannot make page names in uppercase.",
+    "abn2": "You can use HTML tags in template properties description.",
+    "abn3": "On the Prod to publish page just put it in the workflow.",
+    "abn4": "You cannot style title in property and even in title component."
+  }
+ 
